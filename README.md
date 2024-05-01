@@ -37,25 +37,16 @@ The advantage of being a full-stack web developer is:
 
 |                                                  |
 | :----------------------------------------------: |
-|              FULL-STACT-DEVELOPMENT              |
-| ![development](images/fullstack-development.png) |
-|                                                  |
-| :----------------------------------------------: |
 |                FULL-STACT-ROADMAP                |
+| ![development](images/fullstack-development.png) |
 |          ![roadmap](images/roadmap.png)          |
 
-|                                           |                                                  |
-| :---------------------------------------: | :----------------------------------------------: |
-|            FULL-STACT-ROADMAP             |                 Web Design & Dev                 |
-| ![roadmap](images/full-stuck-roadmap.png) | ![roadmap](images/web-designing-development.jpg) |
-
-|                                     |                                    |
-| :---------------------------------: | :--------------------------------: |
-|             WEB-PROJECT             |                USES                |
-| ![roadmap](images/web-projects.jpg) |    ![roadmap](images/uses.jpg)     |
-|    ![roadmap](images/skills.jpg)    |    ![roadmap](images/tools.jpg)    |
-| ![roadmap](images/shortcut-key.jpg) | ![roadmap](images/status-code.jpg) |
-| ![roadmap](images/print-output.jpg) | ![roadmap](images/status-code.jpg) |
+|                                     |                                           |
+| :---------------------------------: | :---------------------------------------: |
+| ![roadmap](images/web-projects.jpg) |        ![roadmap](images/uses.jpg)        |
+|    ![roadmap](images/skills.jpg)    | ![roadmap](images/full-stuck-roadmap.png) |
+| ![roadmap](images/shortcut-key.jpg) |    ![roadmap](images/status-code.jpg)     |
+| ![roadmap](images/print-output.jpg) |       ![roadmap](images/tools.jpg)        |
 
 ![](images/web-designing-development.jpg)
 
